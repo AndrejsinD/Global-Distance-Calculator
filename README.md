@@ -1,8 +1,8 @@
-# ❗️P01: My 226 Final Project
+# P01: My 226 Final Project
 
-❗️**Author**: your name here
+**Author**: David Andrejsin
 
-❗️**Section**: A, B, or C
+**Section**: A
 
 **Term**: Spring 2019
 
@@ -11,7 +11,7 @@
 ## Milestone 1: Setup, Planning, Design
 *Due Wednesday, 4/17, by the start of class.*
 
-❗️**Project selection**: Choose Your Own Adventure or Oh, The Places You'll Go!
+**Project selection**: Choose Your Own Adventure
 
 ❗️**Completed CRC card for the class you will implement**:
   - See this link for a sample CRC card and a template to
