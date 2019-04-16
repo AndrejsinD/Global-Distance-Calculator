@@ -13,7 +13,7 @@
 
 **Project selection**: Choose Your Own Adventure
 
-❗️**Completed CRC card for the class you will implement**:
+**Completed CRC card for the class you will implement**:
   - See this link for a sample CRC card and a template to
   use for your own cards (you will have to make a copy to edit): https://docs.google.com/document/d/1JE_3Qmytk_JGztRqkPXWACJwciPH61VCx3idIlBCVFY/edit?usp=sharing
   - Tables in markdown are not easy, so we suggest saving your CRC card
