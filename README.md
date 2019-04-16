@@ -19,7 +19,7 @@
   - Tables in markdown are not easy, so we suggest saving your CRC card
   as an image and including the image(s) in the README. You can do this
   by saving an image in the repository and linking to it. See the sample CRC card below - and replace it with your own.
-![alt text](image/Class.PNG "My own class")
+![alt text](Class.PNG "My own class")
 
 
 ## Milestone 2: Code
