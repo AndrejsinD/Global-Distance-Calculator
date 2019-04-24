@@ -19,6 +19,18 @@
 import turtle
 
 
+class Coordinates:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+
+
+class Place:
+    def __init__(self, name, coordinates):
+        self.name = name
+        self.coordinates = coordinates
+
+
 def parse_file(filename):
     """
     Iterates through the file, and creates the list of places
@@ -44,6 +56,9 @@ def parse_file(filename):
 
     return places_list
 
+def handle_mouse_event(x, y):
+    name = input("Enter the name of the place you added")
+    global
 
 def place_pin(window, place):
     """
@@ -128,7 +143,7 @@ def main():
         place_pin(wn, place)  # Adds ONE place to the map for each loop iteration
 
     print("Map created!")
-    wn.exitonclick()
+    # wn.exitonclick()
 
 
 if __name__ == "__main__":

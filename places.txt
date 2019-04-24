@@ -1,0 +1,27 @@
+4
+Irfan
+Hometown: Chittagong, Bangladesh
+22.356852
+91.783180
+yellow
+Irfan
+Awesome city: Amsterdam, Netherlands
+52.370216
+4.895168
+green
+David
+Hometown: Most, Czech Republic
+50.502870
+13.639820
+blue
+David
+Most Interesting Place: Paris, France
+48.856613
+2.352222
+red
+
+
+# NOTES:
+# 1) The first number represents the number of entries in the file. Make sure you update that number if you add more.
+# 2) No spaces between entries! The code doesn't handle blank lines.
+# 3) Don't forget the type of data for each line as you create the code.
