@@ -32,12 +32,12 @@ No README action items. Focus on your code! 🙃
 *Due at the start of your section's Final Exam period.*
 
 ### User Instructions
-# How to use the program:
-# Click at you starting destination
-# Add ad point on your journey and go to a console and answer the questions
-# Repeat if necessary
-# See your overall distance so far
-# When you are ready to exit the map, press "q"
+- How to use the program:
+- Click at you starting destination
+- Add ad point on your journey and go to a console and answer the questions
+- Repeat if necessary
+- See your overall distance so far
+- When you are ready to exit the map, press "q"
 
 
 ### Errors
@@ -48,13 +48,13 @@ I have not found any.
 ### ❗️Reflection
 In 3 - 4 paragraphs, address the following:
 - Why did you select the project that you did?
-I selected this project because you told us it would be easier than the other one. After I chose the project I saw the opportunity to create a trip planner. 
+- I selected this project because you told us it would be easier than the other one. After I chose the project I saw the opportunity to create a trip planner. 
 - What was the hardest part of your final project?
-Well, obviously the hardest part was to start. But then afterwards it was basically everything. 
+- Well, obviously the hardest part was to start. But then afterwards it was basically everything. 
 - What did you learn from your final project?
-How to use classes and also more about functions.
+- How to use classes and also more about functions.
 - What would you do differently next time, knowing what you know now?
-I would start earlier on the project, however, that was not possible because of my 5 credits. Therefore probably nothing. 
+- I would start earlier on the project, however, that was not possible because of my 5 credits. Therefore probably nothing. 
 
 ### ❗️References
 Throughout this project, you've likely used outside resources.
