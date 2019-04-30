@@ -3,17 +3,17 @@ Irfan
 Hometown: Chittagong, Bangladesh
 22.356852
 91.783180
-yellow
+red
 Irfan
 Awesome city: Amsterdam, Netherlands
 52.370216
 4.895168
-green
+red
 David
 Hometown: Most, Czech Republic
 50.502870
 13.639820
-blue
+red
 David
 Most Interesting Place: Paris, France
 48.856613
