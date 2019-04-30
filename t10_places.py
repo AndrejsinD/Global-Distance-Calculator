@@ -20,7 +20,8 @@ import turtle
 import math
 
 # How to use the program:
-# Click at you starting destination
+# Click at your starting destination
+# Go to a console and answer the questions
 # Add ad point on your journey and go to a console and answer the questions
 # Repeat if necessary
 # See your overall distance so far
