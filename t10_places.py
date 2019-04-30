@@ -19,6 +19,13 @@
 import turtle
 import math
 
+# How to use the program:
+# Click at you starting destination
+# Add ad point on your journey and go to a console and answer the questions
+# Repeat if necessary
+# See your overall distance so far
+# When you are ready to exit the map, press "q"
+
 
 class Place:
     def __init__(self, person, name, coordinates, color):
@@ -54,6 +61,8 @@ class Place:
         pin.write(text, font=("Arial", 10, "bold"))
 
     def gps_location(self):
+        """Calculates the latitute and longitute"""
+
         latitude = self.coordinates[0] * 2 / wn.window_width() * 195
         longitude = self.coordinates[1] * 2 / wn.window_height() * 120
         latitude = round(latitude, 6)
@@ -106,15 +115,18 @@ def handle_mouse_event(x, y):
 
 
 def calculate_distance():
+    """Calculates the Eucledian distance between points"""
     total_distance = 0
     if len(gps) > 1:
         for i in range(len(gps)-1):
             distance = 69 * math.sqrt((gps[i][0] - gps[i+1][0])**2 + (gps[i][1] - gps[i+1][1])**2)
-            total_distance = distance + total_distance
+            # calculated distance
+            total_distance = distance + total_distance  # sums distances
     return total_distance
 
 
 def closer():
+    """Closes the program"""
     quit()
 
 
@@ -205,7 +217,7 @@ def main():
 
     gps = []
     wn.onclick(handle_mouse_event)
-    wn.onkey(closer, "q")
+    wn.onkey(closer, "q")   # closes program when pressing "q"
 
     wn.listen()
     wn.mainloop()

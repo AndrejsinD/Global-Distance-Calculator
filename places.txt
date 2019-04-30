@@ -1,25 +1,28 @@
 4
-Irfan
-Hometown: Chittagong, Bangladesh
-22.356852
-91.783180
-red
-Irfan
-Awesome city: Amsterdam, Netherlands
-52.370216
-4.895168
-red
 David
 Hometown: Most, Czech Republic
 50.502870
 13.639820
 red
 David
-Most Interesting Place: Paris, France
-48.856613
-2.352222
+Dest 1: Prague
+50.0755
+14.4378
 red
-
+David
+Dest 2: Philadelphia
+39.9526
+-75.1652
+red
+David
+Dest 3: Lexington
+38.0406
+-84.5037
+red
+Dest 4: Berea
+37.5687
+-84.2963
+red
 
 # NOTES:
 # 1) The first number represents the number of entries in the file. Make sure you update that number if you add more.
